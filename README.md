@@ -135,11 +135,6 @@ curl -X POST http://localhost:8000/issues/YOUR_USERNAME/YOUR_REPO \
 GET /commits/{owner}/{repo}?branch=main&per_page=10
 ```
 
-**Example:**
-```bash
-curl http://localhost:8000/commits/facebook/react?branch=main
-```
-
 ---
 
 ## 📁 Project Structure
